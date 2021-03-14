@@ -9,6 +9,7 @@ Therefore, I do not recommend using any other filter lists.
 I'll try to update it every week.
 
 I used these filters:
+
 https://abp.oisd.nl/basic/
 
 https://easylist.to/easylist/easylist.txt
